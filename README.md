@@ -10,10 +10,10 @@ The goal is to support business operations, improve SLA performance, and automat
 
 ## Folder Structure
 incident-ticketing-analytics/
--> data_raw/ # Original dataset from Kaggle
--> data/ # Cleaned and processed data
--> notebooks/ # Jupyter notebooks for EDA
--> scripts/ # Python scripts for ETL
--> sql/ # SQL schema and queries
--> powerbi/ # Power BI dashboards
--> README.md
+├─ data_raw/ # Original dataset from Kaggle
+├─ data/ # Cleaned and processed data
+├─ notebooks/ # Jupyter notebooks for EDA
+├─ scripts/ # Python scripts for ETL
+├─ sql/ # SQL schema and queries
+├─ powerbi/ # Power BI dashboards
+└─ README.md
